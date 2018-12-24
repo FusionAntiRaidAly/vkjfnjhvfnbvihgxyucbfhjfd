@@ -542,4 +542,4 @@ client.on('guildMemberAdd', member => {
 	channel.send(embed)
 	})
 
-client.login("NDg0NjUzNTg4NTY4NzM1NzQ1.DsIqIA.oOvFSPhVOniSX0CC5WUV9g9udE0")
+client.login("process.inv.TOKEN")
